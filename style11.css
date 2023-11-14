@@ -1,0 +1,36 @@
+body {
+    color: #222;
+    font-family: sans-serif;
+}
+
+.getInfo {
+    font-size: 40px;
+    margin: 20px;
+    background-color: #ffffff;
+    border: #9b9b9b solid ;
+    border-radius: 20px;
+}
+
+.result {
+    background: #717171;
+    color: #fff;
+    font-size: 32px;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* .lista{
+    background-color: #9b9b9b;
+    color: #ffffff;
+    font-size: 40px;
+    /* margin: 10px; */
+/* } */ 
+
+/* .lista-2{
+    background-color: #9b9b9b;
+    color: #ffffff;
+    font-size: 40px;
+    /* margin: 20px; */
+/* } */ 
